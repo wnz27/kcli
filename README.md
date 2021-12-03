@@ -1,4 +1,4 @@
-# kcli  [[zh_CN]](README_en.md)
+# kcli  [[en]](README_en.md)
 命令行工具，希望覆盖大部分工作场景
 
 借鉴 [cli](https://github.com/urfave/cli) 现成的实现，来植入日常工作所需的功能。
