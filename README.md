@@ -54,9 +54,10 @@ GLOBAL OPTIONS:
 ```
 
 ## TODO
-### 开发
+### 开发迭代点
 - [ ] 默认设置抽出去同一放到default中去, 可读性更好
 - [ ] 如何 mac 和 windows 使用都友好，（目前功能俩都能用）
+- [ ] color string 优化
 ### 功能
 - 编译
   - [X] 基础
